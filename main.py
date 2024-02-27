@@ -1,5 +1,6 @@
 """
-Very Beginner Python Project by Kylie Ying
+Very Beginner Python Project by Donna Gavin
+Based on a project by Kylie Ying
 Madlibs using string concatenation
 
 YouTube Kylie Ying: https://www.youtube.com/ycubed 
